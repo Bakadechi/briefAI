@@ -11,7 +11,7 @@
 
 ---
 
-## 🎯 C'est quoi ?
+## C'est quoi ?
 
 BriefAI est une application web minimaliste qui génère un **brief créatif complet et structuré** à partir d'une simple description de projet. Tu décris ton idée, tu choisis un ton, et l'IA produit un document actionnable en quelques secondes : objectifs, cible, proposition de valeur, fonctionnalités clés, inspirations, contraintes, next steps.
 
@@ -19,7 +19,7 @@ Pas de compte à créer. Pas de backend. Zéro donnée stockée.
 
 ---
 
-## ✨ Fonctionnalités
+## Fonctionnalités
 
 - **Double compatibilité API** — fonctionne avec OpenAI (GPT-4o mini) et Anthropic (Claude Haiku), switchable en un clic
 - **Brief structuré en 10 sections** — contexte, objectifs, cible, proposition de valeur, ton & style, fonctionnalités, inspirations, contraintes, next steps, mots-clés
@@ -30,13 +30,13 @@ Pas de compte à créer. Pas de backend. Zéro donnée stockée.
 
 ---
 
-## 🚀 Demo
+## Demo
 
 👉 **[Voir la démo live](https://ton-username.github.io/briefai)**
 
 ---
 
-## 📦 Installation
+## Installation
 
 Cloner le repo et ouvrir `index.html` — c'est tout.
 
@@ -50,7 +50,7 @@ Aucune dépendance. Aucun `npm install`.
 
 ---
 
-## 🔑 Configuration
+## Configuration
 
 BriefAI utilise directement les APIs d'OpenAI ou Anthropic depuis ton navigateur.
 
