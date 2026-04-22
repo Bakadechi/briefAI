@@ -102,22 +102,6 @@ Brief affiché en sections dans l'UI
 
 Le prompt demande à l'IA de répondre **uniquement en JSON** selon un schéma fixe à 10 clés. Ça garantit un rendu cohérent et parsable sans regex fragile.
 
----
-
-## 🗺️ Roadmap
-
-- [ ] Export PDF du brief généré
-- [ ] Historique des briefs (localStorage)
-- [ ] Mode dark / light toggle
-- [ ] Support multilingue (EN, ES)
-- [ ] Intégration Notion (push du brief directement dans une page)
-- [ ] Backend proxy pour sécuriser les clés API
-
----
-
-## 🤝 Contribuer
-
-Les PRs sont les bienvenues. Pour les changements importants, ouvre d'abord une issue pour discuter de ce que tu voudrais modifier.
 
 ```bash
 # Fork le repo
@@ -126,12 +110,6 @@ git commit -m 'feat: ajout de X'
 git push origin feature/ma-fonctionnalite
 # Ouvre une Pull Request
 ```
-
----
-
-## 📄 Licence
-
-MIT — fais-en ce que tu veux.
 
 ---
 
