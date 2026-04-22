@@ -32,7 +32,7 @@ Pas de compte à créer. Pas de backend. Zéro donnée stockée.
 
 ## 🚀 Demo
 
-👉 **[Voir la démo live](https://ton-username.github.io/briefai)**
+👉 **[Voir la démo live](https://bakadechi.github.io/briefai)**
 
 ---
 
@@ -41,7 +41,7 @@ Pas de compte à créer. Pas de backend. Zéro donnée stockée.
 Cloner le repo et ouvrir `index.html` — c'est tout.
 
 ```bash
-git clone https://github.com/ton-username/briefai.git
+git clone https://github.com/bakadechi/briefai.git
 cd briefai
 open index.html   # ou double-clic sur le fichier
 ```
@@ -135,4 +135,4 @@ MIT — fais-en ce que tu veux.
 
 ---
 
-<p align="center">Fait avec ☕ et trop de prompts · <a href="https://github.com/ton-username">@ton-username</a></p>
+<p align="center">Fait avec ☕ et trop de prompts · <a href="https://github.com/bakadechi">@bakadechi</a></p>
