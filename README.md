@@ -32,7 +32,7 @@ Pas de compte à créer. Pas de backend. Zéro donnée stockée.
 
 ## Demo
 
-👉 **[Voir la démo live](https://bakadechi.github.io/briefAi/)**
+👉 **[Voir la démo live](https://bakadechi.github.io/briefAI/)**
 
 ---
 
