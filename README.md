@@ -34,6 +34,8 @@ Pas de compte à créer. Pas de backend. Zéro donnée stockée.
 
 👉 **[Voir la démo live](https://bakadechi.github.io/briefAI/)**
 
+![BriefAI screenshot](assets/screenshot.png)
+
 ---
 
 ## 📦 Installation
